@@ -1,0 +1,16 @@
+C:\Users\BEAUCOUPDARGENT\source\repos\systemDotIO\systemDotIO\bin\Debug\net5.0\systemDotIO.exe
+C:\Users\BEAUCOUPDARGENT\source\repos\systemDotIO\systemDotIO\bin\Debug\net5.0\systemDotIO.deps.json
+C:\Users\BEAUCOUPDARGENT\source\repos\systemDotIO\systemDotIO\bin\Debug\net5.0\systemDotIO.runtimeconfig.json
+C:\Users\BEAUCOUPDARGENT\source\repos\systemDotIO\systemDotIO\bin\Debug\net5.0\systemDotIO.runtimeconfig.dev.json
+C:\Users\BEAUCOUPDARGENT\source\repos\systemDotIO\systemDotIO\bin\Debug\net5.0\systemDotIO.dll
+C:\Users\BEAUCOUPDARGENT\source\repos\systemDotIO\systemDotIO\bin\Debug\net5.0\ref\systemDotIO.dll
+C:\Users\BEAUCOUPDARGENT\source\repos\systemDotIO\systemDotIO\bin\Debug\net5.0\systemDotIO.pdb
+C:\Users\BEAUCOUPDARGENT\source\repos\systemDotIO\systemDotIO\obj\Debug\net5.0\systemDotIO.csproj.AssemblyReference.cache
+C:\Users\BEAUCOUPDARGENT\source\repos\systemDotIO\systemDotIO\obj\Debug\net5.0\systemDotIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BEAUCOUPDARGENT\source\repos\systemDotIO\systemDotIO\obj\Debug\net5.0\systemDotIO.AssemblyInfoInputs.cache
+C:\Users\BEAUCOUPDARGENT\source\repos\systemDotIO\systemDotIO\obj\Debug\net5.0\systemDotIO.AssemblyInfo.cs
+C:\Users\BEAUCOUPDARGENT\source\repos\systemDotIO\systemDotIO\obj\Debug\net5.0\systemDotIO.csproj.CoreCompileInputs.cache
+C:\Users\BEAUCOUPDARGENT\source\repos\systemDotIO\systemDotIO\obj\Debug\net5.0\systemDotIO.dll
+C:\Users\BEAUCOUPDARGENT\source\repos\systemDotIO\systemDotIO\obj\Debug\net5.0\ref\systemDotIO.dll
+C:\Users\BEAUCOUPDARGENT\source\repos\systemDotIO\systemDotIO\obj\Debug\net5.0\systemDotIO.pdb
+C:\Users\BEAUCOUPDARGENT\source\repos\systemDotIO\systemDotIO\obj\Debug\net5.0\systemDotIO.genruntimeconfig.cache
