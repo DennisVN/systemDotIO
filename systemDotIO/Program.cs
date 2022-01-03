@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections;
+using System.Collections.Generic; // Array
 
 namespace systemDotIO
 {
@@ -16,21 +17,22 @@ namespace systemDotIO
             // Three main operations can be performed on a Queue and its elements: Enqueue , Dequeue & Peek
             // Enqueue: Adds element to the END, Dequeue removes oldest element from the Start, Peek returns oldest element at the start, but does not remove it. 
 
-            System.Collections.Queue l = new Queue();
-            l.Enqueue("abc");
-            l.Enqueue(123);
-            l.Enqueue(true);
-            object o = l.Peek();
-            Console.WriteLine("List of Queue Values : ");
-            PrintValues(l);
+            //System.Collections.Queue l = new Queue();
+            //l.Enqueue("abc");
+            //l.Enqueue(123);
+            //l.Enqueue(true);
+            //object o = l.Peek();
+            //Console.WriteLine("List of Queue Values : ");
+            //PrintValues(l);
 
-            Console.WriteLine(l.Count);
-            Console.WriteLine((string)o);
-            o = l.Dequeue();
-            Console.WriteLine(l.Count);
-            Console.WriteLine((string)o);
-            Console.WriteLine("List of Queue Values : ");
-            PrintValues(l);
+            //Console.WriteLine(l.Count);
+            //Console.WriteLine((string)o);
+
+            //o = l.Dequeue();
+            //Console.WriteLine(l.Count);
+            //Console.WriteLine((string)o);
+            //Console.WriteLine("List of Queue Values : ");
+            //PrintValues(l);
             #endregion
 
             #region Stack LIFO
@@ -47,7 +49,19 @@ namespace systemDotIO
             //Console.WriteLine(myStack.Peek()); // True
             //Console.WriteLine("List of Stack values : ");
             //PrintValues(myStack);
+            #endregion
 
+            #region Array
+            // ArrayList Unsorted (Must call Sort() method before operating)
+
+            //System.Collections.Generic.List<object> myList = new List<object>();
+            //myList.Add("123456");
+            //myList.Add(123465);
+            //myList.Add(true);
+
+            //Console.WriteLine("Count : {0}", myList.Count);
+            //Console.WriteLine("Capactity : {0}", myList.Capacity);
+            //PrintValues(myList);
             #endregion
 
             Console.ReadLine();
